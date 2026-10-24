@@ -1,5 +1,5 @@
 # Logic-Optimize - Family-time-Ep2
-#EN
+# EN
 A mod using AI Deepseek to optimize logic physic and AI.
 
 Simply because my chip's too weak to run it,so I used DeepSeek AI to make this mod.
@@ -26,7 +26,7 @@ If you do not wish to install it due to safety concerns or a fear that your comp
 
 Please note that I am not fluent in English—I’m just a student who isn’t very good at it—and I used Google Translate for the English sentences. If you happen to spot any errors, I hope you’ll be understanding.
 
-#VN 🇻🇳
+# VN 🇻🇳
 Một bản mod sử dụng AI DeepSeek để tối ưu hóa logic vật lý và AI.
 
 Vì chip máy tính của tôi quá yếu để chạy game, nên tôi đã sử dụng AI DeepSeek để tạo ra bản mod này.
