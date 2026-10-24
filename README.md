@@ -8,9 +8,13 @@ If you using,you will need a Mod config manager and BepInEx to mod working.
 
 Link download plugin and mod loader:
 Modloader:https://github.com/bepinex/bepinex
+
 Plugin Manager config mod:https://www.nexusmods.com/familytime/mods/4
 
 How to install mod:
+
 Step 1:Download Modloader Bepinex (recommend using latest version) and unzip in Folder game.
+
 Step 2:run once to obtain the important files.
+
 Step 3:
