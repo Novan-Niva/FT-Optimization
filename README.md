@@ -1,4 +1,4 @@
-# Logic-Optimize - Family-time-Ep2
+# Family Time Optimization
 # EN
 A mod using AI Deepseek to optimize logic Game physic.
 
