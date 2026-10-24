@@ -1,6 +1,6 @@
 # Logic-Optimize - Family-time-Ep2
 # EN
-A mod using AI Deepseek to optimize logic physic and AI.
+A mod using AI Deepseek to optimize logic Game physic.
 
 Simply because my chip's too weak to run it,so I used DeepSeek AI to make this mod.
 This mod can only be used in *Family Time Episode 2*,I'm not have *Episode 3*.
@@ -27,7 +27,7 @@ If you do not wish to install it due to safety concerns or a fear that your comp
 Please note that I am not fluent in English—I am still a student and not yet very proficient in the language—so I used Google Translate for the English portions. I am also new to using GitHub, so there may be some leftover files or remnants. If you come across any errors, I kindly ask for your understanding.
 
 # VN
-Một bản mod sử dụng AI DeepSeek để tối ưu hóa logic vật lý và AI.
+Một bản mod sử dụng AI DeepSeek để tối ưu hóa logic vật lý của trò chơi.
 
 Vì chip máy tính của tôi quá yếu để chạy game, nên tôi đã sử dụng AI DeepSeek để tạo ra bản mod này.
 Bản mod này chỉ dành cho *Family Time Episode 2*, không áp dụng cho *Episode 3*.
