@@ -24,7 +24,7 @@ Run game to apply mod.
 
 If you do not wish to install it due to safety concerns or a fear that your computer might become infected with a virus, you can simply choose not to download it.
 
-Please note that I am not fluent in English—I’m just a student who isn’t very good at it—and I used Google Translate for the English sentences. If you happen to spot any errors, I hope you’ll be understanding.
+Please note that I am not fluent in English—I am still a student and not yet very proficient in the language—so I used Google Translate for the English portions. I am also new to using GitHub, so there may be some leftover files or remnants. If you come across any errors, I kindly ask for your understanding.
 
 # VN
 Một bản mod sử dụng AI DeepSeek để tối ưu hóa logic vật lý và AI.
@@ -50,3 +50,5 @@ Bước 3: Sao chép tệp `FamilyTimeOptimizer.dll` vào đường dẫn: `C:\U
 Khởi chạy game để áp dụng bản mod.
 
 Nếu bạn lo ngại về vấn đề bảo mật hoặc sợ máy tính có thể bị nhiễm virus, bạn hoàn toàn có thể chọn cách không tải xuống bản mod này.
+
+Xin lưu ý rằng tôi không thông thạo tiếng Anh—tôi chỉ là một học sinh chưa giỏi ngôn ngữ này—và tôi đã sử dụng Google Dịch cho các câu tiếng Anh đó và tôi mới sử dụng github trong tin đăng tệp sẽ còn sai sót. Nếu bạn phát hiện bất kỳ lỗi nào, mong bạn hãy thông cảm cho tôi.
