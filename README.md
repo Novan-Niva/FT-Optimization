@@ -51,4 +51,4 @@ Khởi chạy game để áp dụng bản mod.
 
 Nếu bạn lo ngại về vấn đề bảo mật hoặc sợ máy tính có thể bị nhiễm virus, bạn hoàn toàn có thể chọn cách không tải xuống bản mod này.
 
-Xin lưu ý rằng tôi không thông thạo tiếng Anh—tôi chỉ là một học sinh chưa giỏi ngôn ngữ này—và tôi đã sử dụng Google Dịch cho các câu tiếng Anh đó và tôi mới sử dụng github trong tin đăng tệp sẽ còn sai sót. Nếu bạn phát hiện bất kỳ lỗi nào, mong bạn hãy thông cảm cho tôi.
+Xin lưu ý rằng tôi không thông thạo tiếng Anh—tôi chỉ là một học sinh chưa giỏi ngôn ngữ này—và tôi đã sử dụng Google Dịch cho các câu tiếng Anh đó và tôi mới sử dụng github trong việc đăng tệp tin sẽ còn sai sót. Nếu bạn phát hiện bất kỳ lỗi nào, mong bạn hãy thông cảm cho tôi.
