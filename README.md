@@ -15,6 +15,6 @@ How to install mod:
 
 Step 1:Download Modloader Bepinex (recommend using latest version) and unzip in Folder game.
 
-Step 2:run once to obtain the important files.
+Step 2:Run once to obtain the important files.
 
-Step 3:
+Step 3:copy file FamilyTimeOptimizer.dll to file C:\Users\<your use>\Documents\<your game file>\BepInEx\plugins
